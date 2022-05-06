@@ -1,0 +1,3 @@
+[submodule "bottom"]
+	path = bottom
+	url = https://github.com/ClementTsang/bottom
